@@ -7,7 +7,7 @@ import {Employee} from './employee';
   providedIn: 'root'
 })
 export class EmployeeService {
-  private baseURL = 'http://localhost:8080/api/v1/employees';
+  private baseURL = 'https://employee-management-app1.herokuapp.com/';
 
   constructor(private httpClient: HttpClient) {
   }

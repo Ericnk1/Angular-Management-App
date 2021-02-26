@@ -2,19 +2,25 @@
 <nav class="navbar navbar-expand-sm big-primary navbar dark">
   <ul class="navbar-nav">
     <li class="nav-item">
-      <a routerLink="employees" routerLinkActive="active" class="nav-link">
-        Employee List
-      </a>
+      <button>
+        <a style="color: black" routerLink="employees" routerLinkActive="active" class="nav-link">
+          <strong>Employee List</strong>
+        </a>
+      </button>
     </li>
     <li class="nav-item">
-      <a routerLink="create-employee" routerLinkActive="active" class="nav-link">
-        Create Employee
-      </a>
+      <button>
+        <a style="color: black" routerLink="create-employee" routerLinkActive="active" class="nav-link">
+          <strong>Create Employee</strong>
+        </a>
+      </button>
     </li>
   </ul>
 </nav>
 
-<h1 class="text-center">{{title}}</h1>
+<h1 style="align-content: center" class="text-center">{{title}}</h1>
+
+<br>
 <div>
   <router-outlet></router-outlet>
 </div>
