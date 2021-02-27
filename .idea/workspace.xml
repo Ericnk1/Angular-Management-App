@@ -25,58 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae249b68-82fa-4de1-8f8e-0a26ac5797db" name="Default Changelist" comment="git commit -m 'track package.json'">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/.browserslistrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/e2e/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/app-routing.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/create-employee/create-employee.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/create-employee/create-employee.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/create-employee/create-employee.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/create-employee/create-employee.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee-list/employee-list.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee-list/employee-list.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee-list/employee-list.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee-list/employee-list.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee.service.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/update-employee/update-employee.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/update-employee/update-employee.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/update-employee/update-employee.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/update-employee/update-employee.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/tsconfig.base.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee-management-app/tslint.json" beforeDir="false" />
+    <list default="true" id="ae249b68-82fa-4de1-8f8e-0a26ac5797db" name="Default Changelist" comment="project root updates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614358742095</updated>
       <workItem from="1614358745647" duration="15067000" />
-      <workItem from="1614429645561" duration="276000" />
+      <workItem from="1614429645561" duration="1544000" />
     </task>
     <task id="LOCAL-00001" summary="updates to deploy to heroku">
       <created>1614369503923</created>
@@ -212,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614427743122</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="project root updates">
+      <created>1614430027609</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614430027609</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +203,8 @@
     <MESSAGE value="updates to deploy to heroku" />
     <MESSAGE value="updates" />
     <MESSAGE value="git commit -m 'track package.json'" />
-    <option name="LAST_COMMIT_MESSAGE" value="git commit -m 'track package.json'" />
+    <MESSAGE value="project root updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="project root updates" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614372996842">
@@ -282,11 +240,11 @@
       <screen x="1920" y="0" width="1280" height="680" />
     </state>
     <state x="2062" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1614429929744" />
-    <state x="2153" y="74" key="Vcs.Push.Dialog.v2" timestamp="1614427747094">
+    <state x="2153" y="74" key="Vcs.Push.Dialog.v2" timestamp="1614430033788">
       <screen x="1920" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1614370536102" />
-    <state x="2153" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1614427747094" />
+    <state x="2153" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1614430033788" />
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1614373725482" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614369786523">
       <screen x="0" y="0" width="1280" height="680" />
