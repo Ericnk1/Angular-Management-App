@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae249b68-82fa-4de1-8f8e-0a26ac5797db" name="Default Changelist" comment="git commit -m 'track package.json'">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/create-employee/create-employee.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/create-employee/create-employee.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/create-employee/create-employee.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/create-employee/create-employee.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee-list/employee-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee-list/employee-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee-list/employee-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee-list/employee-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/employee.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/update-employee/update-employee.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/update-employee/update-employee.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/update-employee/update-employee.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/app/update-employee/update-employee.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/tsconfig.base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-management-app/tslint.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1p1lzfxQ6hiiCxEh3poGAOkih6f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Users\admin\Desktop\Angular-management-App\employee-management-app\node_modules\typescript\lib" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="E2E Tests (employee-management-app)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae249b68-82fa-4de1-8f8e-0a26ac5797db" name="Default Changelist" comment="" />
+      <created>1614358742095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614358742095</updated>
+      <workItem from="1614358745647" duration="15067000" />
+      <workItem from="1614429645561" duration="276000" />
+    </task>
+    <task id="LOCAL-00001" summary="updates to deploy to heroku">
+      <created>1614369503923</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614369503923</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updates to deploy to heroku">
+      <created>1614370533646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614370533646</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updates to deploy to heroku">
+      <created>1614371026844</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614371026844</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updates">
+      <created>1614371322785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614371322786</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updates">
+      <created>1614371719614</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614371719614</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updates">
+      <created>1614372257427</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614372257427</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updates">
+      <created>1614373723078</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614373723078</updated>
+    </task>
+    <task id="LOCAL-00008" summary="git commit -m 'track package.json'">
+      <created>1614427743122</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614427743122</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updates to deploy to heroku" />
+    <MESSAGE value="updates" />
+    <MESSAGE value="git commit -m 'track package.json'" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m 'track package.json'" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614372996842">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1614372996842" />
+    <state x="2341" y="96" key="FileChooserDialogImpl" timestamp="1614427998652">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="2341" y="96" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1614427998652" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1614372782710" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1614429407222">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1614365874213" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1614429407222" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1614429407221">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1614365874213" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1614429407221" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1614429407221">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1614365874213" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1614429407221" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1614429407221">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1614365874213" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1614429407221" />
+    <state x="2062" y="0" key="SettingsEditor" timestamp="1614429929744">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="2062" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1614429929744" />
+    <state x="2153" y="74" key="Vcs.Push.Dialog.v2" timestamp="1614427747094">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1614370536102" />
+    <state x="2153" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1614427747094" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1614373725482" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614369786523">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1614369786523" />
+    <state x="347" y="73" width="587" height="534" key="find.popup" timestamp="1614373703767">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="347" y="73" width="587" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1614373703767" />
+  </component>
+</project>
