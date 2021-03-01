@@ -25,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae249b68-82fa-4de1-8f8e-0a26ac5797db" name="Default Changelist" comment="updates" />
+    <list default="true" id="ae249b68-82fa-4de1-8f8e-0a26ac5797db" name="Default Changelist" comment="updates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/employee.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/employee.service.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +71,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="ts.external.directory.path" value="C:\Users\admin\Desktop\Angular-management-App\employee-management-app\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\admin\Desktop\Angular-management-App\node_modules\typescript\lib" />
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration name="E2E Tests (employee-management-app)" type="JavaScriptTestRunnerProtractor">
@@ -102,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614358742095</updated>
       <workItem from="1614358745647" duration="15067000" />
-      <workItem from="1614429645561" duration="1955000" />
+      <workItem from="1614429645561" duration="4144000" />
     </task>
     <task id="LOCAL-00001" summary="updates to deploy to heroku">
       <created>1614369503923</created>
@@ -174,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614438364549</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="updates">
+      <created>1614438932308</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1614438932308</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,11 +255,11 @@
       <screen x="1920" y="0" width="1280" height="680" />
     </state>
     <state x="2062" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1614429929744" />
-    <state x="2153" y="74" key="Vcs.Push.Dialog.v2" timestamp="1614438367275">
+    <state x="2153" y="74" key="Vcs.Push.Dialog.v2" timestamp="1614438936149">
       <screen x="1920" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1280.680@0.0.1280.680" timestamp="1614370536102" />
-    <state x="2153" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1614438367275" />
+    <state x="2153" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1280.680@1920.0.1280.680" timestamp="1614438936149" />
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1614373725482" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614369786523">
       <screen x="0" y="0" width="1280" height="680" />

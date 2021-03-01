@@ -23,16 +23,16 @@ export class EmployeeService {
   }
 
 //  Update
-  updateEmployee(employeeId: number, newEmployee: Employee) {
+  public updateEmployee(employeeId: number, newEmployee: Employee): Observable<Employee[]> {
     return this.httpClient.put<Employee[]>(`${this.baseURL}/${employeeId}`, newEmployee);
   }
 
 //  Delete
-  deleteEmployee(employeeId: number): Observable<Employee[]> {
+  public deleteEmployee(employeeId: number): Observable<Employee[]> {
     return this.httpClient.delete<Employee[]>(`${this.baseURL}/${employeeId}`);
   }
 
-  getEmployeeById(employeeId: number) {
+  public getEmployeeById(employeeId: number): Observable<Employee> {
     return this.httpClient.get<Employee>(`${this.baseURL}/${employeeId}`);
   }
 }
