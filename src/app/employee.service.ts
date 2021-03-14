@@ -7,7 +7,7 @@ import {Employee} from './employee';
   providedIn: 'root'
 })
 export class EmployeeService {
-  private baseURL = 'https://cors-anywhere.herokuapp.com/https://employee-management-app1.herokuapp.com/';
+  private baseURL = 'https://employee-management-app1.herokuapp.com/';
 
   constructor(private httpClient: HttpClient) {
   }
