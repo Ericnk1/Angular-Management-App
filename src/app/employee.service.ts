@@ -7,32 +7,32 @@ import {Employee} from './employee';
   providedIn: 'root'
 })
 export class EmployeeService {
-  private baseURL = 'https://employee-management-app1.herokuapp.com/';
+  private baseURL = 'employee';
 
   constructor(private httpClient: HttpClient) {
   }
 
   // Read
   getEmployeesList(): Observable<Employee[]> {
-    return this.httpClient.get<Employee[]>(`${this.baseURL}`);
+    return this.httpClient.get<Employee[]>(this.baseURL);
   }
 
   // Create
-  createEmployee(employee: Employee): Observable<Employee[]> {
-    return this.httpClient.post<Employee[]>(`${this.baseURL}`, employee);
+  createEmployee(employee: Employee): Observable<Employee> {
+    return this.httpClient.post<Employee>(this.baseURL, employee);
   }
 
 //  Update
-  public updateEmployee(employeeId: number, newEmployee: Employee): Observable<Employee[]> {
-    return this.httpClient.put<Employee[]>(`${this.baseURL}/${employeeId}`, newEmployee);
+  public updateEmployee(id: number, newEmployee: Employee): Observable<Employee> {
+    return this.httpClient.put<Employee>(this.baseURL + '/' + id,  newEmployee);
   }
 
 //  Delete
-  public deleteEmployee(employeeId: number): Observable<Employee[]> {
-    return this.httpClient.delete<Employee[]>(`${this.baseURL}/${employeeId}`);
+  public deleteEmployee(id: number): Observable<Employee> {
+    return this.httpClient.delete<Employee>(this.baseURL + '/' + id);
   }
 
-  public getEmployeeById(employeeId: number): Observable<Employee> {
-    return this.httpClient.get<Employee>(`${this.baseURL}/${employeeId}`);
+  public getEmployeeById(id: number): Observable<Employee> {
+    return this.httpClient.get<Employee>(this.baseURL + '/' + id);
   }
 }

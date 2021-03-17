@@ -3,7 +3,11 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  DefaultLanguage: 'en',
+  production: false,
+  development: true,
+  environmentName: 'DEV',
+  baseURL: 'https://petclinic-spring-boot.herokuapp.com/' // 'http://localhost:8080/'
 };
 
 /*
