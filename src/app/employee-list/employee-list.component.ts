@@ -1,7 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {Employee} from '../employee';
 import {EmployeeService} from '../employee.service';
-import {Router} from "@angular/router";
+import {Router} from '@angular/router';
 
 @Component({
   selector: 'app-employee-list',
@@ -31,7 +31,7 @@ export class EmployeeListComponent implements OnInit {
     });
   }
 
-  private updateEmployee(employeeId: number) {
+  private updateEmployee(employeeId: number): void {
     this.router.navigate(['/update-employee', employeeId]);
   }
 

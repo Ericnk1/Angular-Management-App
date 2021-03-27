@@ -24,6 +24,8 @@ export class CreateEmployeeComponent implements OnInit {
       firstName: ['', [Validators.required, Validators.pattern('[a-zA-Z ]*')]],
       lastName: ['', [Validators.required, Validators.pattern('[a-zA-Z ]*')]],
       email: ['', [Validators.required, Validators.email]],
+      jobTitle: ['', [Validators.required, Validators.pattern('[a-zA-Z ]*')]],
+      imageUrl: ['', Validators.required]
 
     });
 
@@ -35,6 +37,8 @@ export class CreateEmployeeComponent implements OnInit {
       firstName: this.form.get('firstName').value,
       lastName: this.form.get('lastName').value,
       email: this.form.get('email').value,
+      jobTitle: this.form.get('jobTitle').value,
+      imageUrl: this.form.get('imageUrl').value,
 
     };
     this.employeeService.createEmployee(newEmployee).subscribe(data => {
