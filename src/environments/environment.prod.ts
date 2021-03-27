@@ -3,5 +3,5 @@ export const environment = {
   production: false,
   development: true,
   environmentName: 'DEV',
-  baseURL: 'https://employee-management-app1.herokuapp.com/' // 'http://localhost:8080/'
+  baseURL: 'https://employeemanagement-08ce420cd95d.herokuapp.com/' // 'http://localhost:8080/'
 };
