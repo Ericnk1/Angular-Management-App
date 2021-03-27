@@ -48,7 +48,7 @@
           <div *ngIf="form.controls['jobTitle'].errors?.required">
             Job Title is required
           </div>
-          <div *ngIf="form.controls['jobTitle'].errors?.email">
+          <div *ngIf="form.controls['jobTitle'].errors?.jobTitle">
             Please enter a valid job Title
           </div>
         </div>
@@ -61,7 +61,7 @@
           <div *ngIf="form.controls['imageUrl'].errors?.required">
             ImageUrl is required
           </div>
-          <div *ngIf="form.controls['imageUrl'].errors?.email">
+          <div *ngIf="form.controls['imageUrl'].errors?.imageUrl">
             Please enter a valid Link
           </div>
         </div>
